@@ -16,9 +16,12 @@ Awesome store aims to analyze its annual sales reports for 2022 to gain valuable
 
 **Process:**
 • Data Cleaning, remove empty values.
-• Create Pivot Tables: Insert → PivotTable → Select table/range → New Worksheet.
-• Use slicers for filtering (Insert → Slicer).
-• Add charts: column, bar, line, pie, etc. linked to PivotTables.
+• Data Processing
+• Data Analysis
+• Data Visualization
+• Report
+• Insights
+• Conculsion
 
 **Project Insights:**
 • Women are more likely to buy compared to men (~65%)
