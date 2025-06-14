@@ -5,12 +5,12 @@
 Awesome store aims to analyze its annual sales reports for 2022 to gain valuable insights into customer behavior and improve sales performance for 2023.The objective is to identify key trends, understand purchase patterns, and optimize marketing strategies to drive revenue growth.
 
 **Questions:**
-• Compare the sales and orders using single chart
+• Compare the sales and orders using single chart.
 • Which month got the highest sales and orders?
 • Who Purchased more- men or women in 2022?
 • What are different order status in 2022?
 • List top 10 states contributing to the sales?
-• Relation Between age and gender based on number of orders
+• Relation Between age and gender based on number of orders.
 • Which channel is contributing to maximum sales?
 • Highest selling category?
 
