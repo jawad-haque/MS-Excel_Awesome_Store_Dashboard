@@ -1,4 +1,4 @@
-![Screenshot 2025-06-08 230619](https://github.com/user-attachments/assets/c39f4449-37ff-47a6-8e0f-1276a03fc904)
+
 
 # MS-Excel_Awesome_Store_Dashboard
 **Project Objective:** 
