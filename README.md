@@ -1,4 +1,4 @@
-
+![DASHBOARD](https://github.com/user-attachments/assets/0a611864-4d77-4981-a5f4-85fdca5c3316)
 
 # MS-Excel_Awesome_Store_Dashboard
 **Project Objective:** 
