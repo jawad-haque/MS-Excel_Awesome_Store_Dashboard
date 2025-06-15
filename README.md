@@ -29,7 +29,7 @@ Awesome store aims to analyze its annual sales reports for 2024 to gain valuable
 • Adult age group (30-49 yrs) is max contributing (~50%)
 • Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
-**Final Conclusion to improve Vrinda store sales:**
+**Final Conclusion to improve Awesome Store sales:**
 Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
 **Skills:** Microsoft Excel · Pivot Tables · Excel Dashboards · Pivot Tables & Pivot Charts · Dashboard Design · Data Cleaning and Formatting · Excel Data Analysis · Data Visualization
